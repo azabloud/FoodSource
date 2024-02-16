@@ -1,0 +1,65 @@
+
+
+Evaluation and Feedback
+CMSI 4072 project ~ Spring 2024
+Adam Zabloudil
+FoodSource project
+==============================
+
+Software Requirements Specification Document:
+---------------------------------------------
+-- Introduction Section
+   Good job overall on this document.  It would be enhanced by adding a bit
+   of a description at the top, and possibly a diagram to aid in seeing how
+   the parts associate and fit together.
+
+-- Functional Requirements
+   Very nice work on these requirements.  You have put them into good groups
+   or categories, and you have specified the requirements in the proper
+   Agile language.
+
+   Two things to note: 1) if you see the word "and" in a requirement, that's
+   usually TWO or more requirements so they should be split apart; and 2) you
+   also need at least several acceptance criteria for each requirement so
+   that you can prove the requirement is met.
+
+   Otherwise, your functional requirements seem to cover all the parts you
+   will need for the application.  Be careful with ambiguous language that
+   uses words like "easily" or "quickly" ~ also known as "weasel words".
+
+   As an example:
+
+   IS:
+   1. Login Interface
+   1.1. Signup
+   1.1.1. As a user, I want to sign up with my email and select whether I am
+          a buyer or a seller, so that the app can provide a personalized
+          experience based on my role.
+
+   SHOULD BE:
+   1. Login Interface
+   1.1. Signup
+   1.1.1. As a user, I want to sign up with my email so that I can be sure
+          the system will validate my account
+   1.1.2. As a user, I want to select whether I am a buyer or a seller, so
+          that the app can provide a personalized experience based on my role.
+
+-- Performance Requirements
+   I don't see any performance requirements, but maybe I just missed them.
+   Performance requirements have to do with things like timing issues, what
+   is displayed when, and how the software will be maintained/updated.  This
+   section was specified for this submission.  If you have something there
+   which I didn't recognize, then that's fine. :)
+
+-- Environment Requirements
+   You need to specify the requirements for both hardware and software, for
+   both development and use of the application.  That is a necessary part of
+   the requirements document.
+
+=============================================================================
+your score:  8.5% out of 10% which is a B
+
+All in all, not a bad first effort, you just need to fill in more specifics.
+
+Make the changes as suggested above for the second submission, including the
+missing sections, and you'll get the full 10% on this document.
