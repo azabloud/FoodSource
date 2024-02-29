@@ -1,0 +1,35 @@
+
+
+Evaluation and Feedback
+CMSI 4072 project ~ Spring 2024
+Adam Zabloudil
+FoodSource project
+=============================================
+
+Software Development Plan Document:
+---------------------------------------------
+-- General Comments
+   Very nice work on this, Adam!  Good explanation of the software resources
+   that you've included and your organization section is right on!  A thing
+   to keep in mind is that the table of contents should be on the first page
+   not the last page...  :)
+
+-- Introduction Section
+   Perfect ~ no further comments, nothing to add for the second submission.
+
+-- Project Resources Section
+   Perfect ~ no further comments, nothing to add for the second submission.
+
+-- Project Organization Section
+   Perfect ~ no further comments, nothing to add for the second submission.
+
+-- Project Schedule Section
+   Good on you for doing a PERT chart!  That's something most people don't
+   opt for, but you did great with it!
+   Perfect ~ no further comments, nothing to add for the second submission.
+
+=============================================================================
+your score:  10% out of 10% which is an A-plus
+
+Great work on this document!  You are good to go.  Full credit for both the
+first and second submission.
