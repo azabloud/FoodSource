@@ -63,3 +63,12 @@ All in all, not a bad first effort, you just need to fill in more specifics.
 
 Make the changes as suggested above for the second submission, including the
 missing sections, and you'll get the full 10% on this document.
+
+=============================================================================
+SECOND SUBMISSION
+
+your score:  9.5% out of 10% which is an A
+
+I still don't see any Performance Requirements section, nor do I see any
+acceptance criteria for your user stories.  Still, you did make some effort
+to update.
