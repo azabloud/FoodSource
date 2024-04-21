@@ -1,0 +1,45 @@
+
+Evaluation and Feedback
+CMSI 4072 project ~ Spring 2024
+Adam Zabloudil
+FoodSource project
+Evaluation for homework03
+===============================
+
+7-1  Fix comments for Euclid's Algorithm        4 out of 5 points
+7-2  Two conditions for bad comments            4 out of 4 points
+7-4  Apply offensive programming ex.3           5 out of 5 points
+7-5  Should you add error handling?             3 out of 4 points
+7-7  Top-down drive to market / assumptions     5 out of 5 points
+8-1  Implementation of IsRelativelyPrime        5 out of 5 points
+8-3  Which testing methods used in 8-1 [gimme]  5 out of 5 points
+8-5  Implementation of AreRelativelyPrime       4 out of 4 points
+8-9  Exhaustive is black/white/gray & why       4 out of 4 points
+8-11 Lincoln estimate / number bugs             4 out of 5 points
+8-12 Lincoln estimate no common bugs            4 out of 4 points
+
+Total possible score: 50 points
+============================================================================
+
+Your score: 47 out of 50 = 94% which is an A
+
+Comments/feedback:
+
+problem 7.1: the thrust of the problem was to correct the comments, so you
+   can make sure there are not too many and that they will stay pertinent to
+   the code.  You did find two errors, though!
+
+problem 7.4: your statements are true, but consider that the error "handling"
+   should be in the CALLER not in the CALLED function.  The called function
+   will verify the inputs, as you said, but if something is wrong the called
+   function should throw an exception which gets passed up the call stack to
+   the CALLING function for handling.
+
+problem 8.11: the actual number would be the average of all three Lincoln
+   index values for a total of 14.5 bugs at large.
+
+Good job!!
+
+It has been a great pleasure to have you in my classes over the years, and I
+look forward to hearing from you as you make your marks upon the world and the
+industry.  Keep up the good work!
