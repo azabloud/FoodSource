@@ -1,5 +1,6 @@
 # FoodSource
 
-[proposal slides](https://docs.google.com/presentation/d/1ciJsldWweuuNjDpaMM93zh8C-Fzwqf6cNCGgqOq4pxE/edit?usp=sharing)
+FoodSource is an iOS app that acts as a marketplace for people to buy and sell food from its source. Buyers on the app are people who want convenient access to ethically sourced food, while the sellers are people like farmers, gardeners, hunters, fisherman, beekepers, etc. To use FoodSource, the sellers simply upload listings of their food, then the buyers can browse the sellers and purchase food through the app. 
 
-[ABCDR slides](https://docs.google.com/presentation/d/1lkcniNfMshG5YklU27kEXzR2P3JTQOhak_8_oq876iM/edit?usp=sharing)
+Created by Adam Zabloudil
+
